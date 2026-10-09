@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "/home/yabyaa/Desktop/pacman/younes/learn/arcade_l/.venv/lib/python3.10/site-packages"
+  ]
+}
